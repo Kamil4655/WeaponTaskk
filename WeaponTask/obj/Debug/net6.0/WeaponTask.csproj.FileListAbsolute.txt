@@ -1,0 +1,14 @@
+C:\Users\Kamil\Desktop\WeaponTask\WeaponTask\bin\Debug\net6.0\WeaponTask.exe
+C:\Users\Kamil\Desktop\WeaponTask\WeaponTask\bin\Debug\net6.0\WeaponTask.deps.json
+C:\Users\Kamil\Desktop\WeaponTask\WeaponTask\bin\Debug\net6.0\WeaponTask.runtimeconfig.json
+C:\Users\Kamil\Desktop\WeaponTask\WeaponTask\bin\Debug\net6.0\WeaponTask.dll
+C:\Users\Kamil\Desktop\WeaponTask\WeaponTask\bin\Debug\net6.0\WeaponTask.pdb
+C:\Users\Kamil\Desktop\WeaponTask\WeaponTask\obj\Debug\net6.0\WeaponTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\WeaponTask\WeaponTask\obj\Debug\net6.0\WeaponTask.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\WeaponTask\WeaponTask\obj\Debug\net6.0\WeaponTask.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\WeaponTask\WeaponTask\obj\Debug\net6.0\WeaponTask.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\WeaponTask\WeaponTask\obj\Debug\net6.0\WeaponTask.dll
+C:\Users\Kamil\Desktop\WeaponTask\WeaponTask\obj\Debug\net6.0\refint\WeaponTask.dll
+C:\Users\Kamil\Desktop\WeaponTask\WeaponTask\obj\Debug\net6.0\WeaponTask.pdb
+C:\Users\Kamil\Desktop\WeaponTask\WeaponTask\obj\Debug\net6.0\WeaponTask.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\WeaponTask\WeaponTask\obj\Debug\net6.0\ref\WeaponTask.dll
